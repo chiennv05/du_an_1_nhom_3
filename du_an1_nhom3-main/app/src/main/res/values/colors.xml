@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="your_primary_color">#56B0A6</color>
+    <color name="your_primary_dark_color">#56B0A6</color> <!-- Dành cho status bar -->
+    <color name="red_status_bill">#E60C0C</color>
+    <color name="colorSelected">#2196F3</color> <!-- Màu khi được chọn -->
+    <color name="colorUnselected">@color/black</color>
+    <color name="colorNormal">#FFFFFF</color>
+    <color name="colorHovered">#E0E0E0</color>
+    <color name="colorPressed">#BDBDBD</color>
+    <color name="colorStartGradient">#FFA726</color>  <!-- Màu cam nhạt -->
+    <color name="colorEndGradient">#FB8C00</color>    <!-- Màu cam đậm -->
+    <color name="colorBorder">#FFCC80</color>         <!-- Màu viền cam nhạt -->
+
+</resources>
