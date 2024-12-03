@@ -1,4 +1,4 @@
-package com.example.bduan1.login;
+package com.nhom3.bduan1.login;
 
 import android.content.Intent;
 import android.graphics.drawable.Drawable;
@@ -20,10 +20,10 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-import com.example.bduan1.appcompatactivity.AdminActivity;
-import com.example.bduan1.R;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.appcompatactivity.AdminActivity;
 
-import com.example.bduan1.appcompatactivity.UserActivity;
+import com.nhom3.bduan1.appcompatactivity.UserActivity;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;

@@ -1,4 +1,4 @@
-package com.example.bduan1.fragment;
+package com.nhom3.bduan1.fragment;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,10 +12,10 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.bduan1.login.DangNhap;
-import com.example.bduan1.login.DoiMatKhau;
-import com.example.bduan1.R;
-import com.example.bduan1.appcompatactivity.UpdateUserActivity;
+import com.nhom3.bduan1.login.DangNhap;
+import com.nhom3.bduan1.login.DoiMatKhau;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.appcompatactivity.UpdateUserActivity;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.firestore.DocumentSnapshot;

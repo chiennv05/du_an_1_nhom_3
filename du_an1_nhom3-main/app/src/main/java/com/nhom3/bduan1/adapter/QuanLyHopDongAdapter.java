@@ -1,4 +1,4 @@
-package com.example.bduan1.adapter;
+package com.nhom3.bduan1.adapter;
 
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;
@@ -13,9 +13,9 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.bduan1.appcompatactivity.QuanLiHopDongChiTietActivity;
-import com.example.bduan1.models.QuanLiHopDongModels;
-import com.example.bduan1.R;
+import com.nhom3.bduan1.appcompatactivity.QuanLiHopDongChiTietActivity;
+import com.nhom3.bduan1.models.QuanLiHopDongModels;
+import com.nhom3.bduan1.R;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
 

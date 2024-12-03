@@ -1,4 +1,4 @@
-package com.example.bduan1.fragment;
+package com.nhom3.bduan1.fragment;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;

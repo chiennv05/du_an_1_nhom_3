@@ -11,6 +11,7 @@
         android:id="@+id/imganhphong_qlpt"
         android:layout_width="110dp"
         android:layout_height="110dp"
+        android:contentDescription="TODO"
         android:scaleType="centerCrop"
         android:layout_marginEnd="8dp"
         android:background="@android:color/darker_gray" />

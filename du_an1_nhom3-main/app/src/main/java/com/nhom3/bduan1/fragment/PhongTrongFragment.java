@@ -1,4 +1,4 @@
-package com.example.bduan1.fragment;
+package com.nhom3.bduan1.fragment;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -11,9 +11,9 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.bduan1.R;
-import com.example.bduan1.adapter.PhongTrongAdapter;
-import com.example.bduan1.models.QuanLyPhongTroModels;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.adapter.PhongTrongAdapter;
+import com.nhom3.bduan1.models.QuanLyPhongTroModels;
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.QueryDocumentSnapshot;

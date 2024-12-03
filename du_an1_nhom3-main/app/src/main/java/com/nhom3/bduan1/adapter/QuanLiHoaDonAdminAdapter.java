@@ -1,4 +1,4 @@
-package com.example.bduan1.adapter;
+package com.nhom3.bduan1.adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,9 +11,9 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.FragmentManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.bduan1.appcompatactivity.HoaDonChiTietTungPhongActivity;
-import com.example.bduan1.R;
-import com.example.bduan1.models.QuanLyPhongTroModels;
+import com.nhom3.bduan1.appcompatactivity.HoaDonChiTietTungPhongActivity;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.models.QuanLyPhongTroModels;
 
 import java.util.List;
 

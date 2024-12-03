@@ -26,6 +26,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/tv1"
+                android:contentDescription="TODO"
                 android:src="@drawable/img_room"
                 android:layout_marginTop="10dp"
                 android:layout_centerHorizontal="true"/>

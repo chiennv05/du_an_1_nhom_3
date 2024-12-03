@@ -1,4 +1,4 @@
-package com.example.bduan1.appcompatactivity;
+package com.nhom3.bduan1.appcompatactivity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,11 +11,11 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-import com.example.bduan1.models.HoaDonChiTietModels;
-import com.example.bduan1.models.HoaDonDichVuModels;
-import com.example.bduan1.models.QuanLiHopDongModels;
-import com.example.bduan1.R;
-import com.example.bduan1.models.QuanLyPhongTroModels;
+import com.nhom3.bduan1.models.HoaDonChiTietModels;
+import com.nhom3.bduan1.models.HoaDonDichVuModels;
+import com.nhom3.bduan1.models.QuanLiHopDongModels;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.models.QuanLyPhongTroModels;
 import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
 

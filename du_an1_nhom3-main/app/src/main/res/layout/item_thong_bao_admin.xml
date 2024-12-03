@@ -16,6 +16,7 @@
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:contentDescription="TODO"
             android:src="@drawable/hothu"
             android:layout_margin="5dp"/>
         <LinearLayout
@@ -52,6 +53,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:contentDescription="TODO"
                     android:src="@drawable/update"
                     android:id="@+id/btncapnhat_thongbao"
                     android:layout_margin="5dp"/>
@@ -59,6 +61,7 @@
                     android:id="@+id/btnxoa_thongbao"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:contentDescription="TODO"
                     android:src="@drawable/delete"
                     android:layout_marginStart="16dp" />
             </LinearLayout>

@@ -1,4 +1,4 @@
-package com.example.bduan1.fragment;
+package com.nhom3.bduan1.fragment;
 
 import android.os.Bundle;
 
@@ -12,10 +12,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
-import com.example.bduan1.models.QuanLiHopDongModels;
-import com.example.bduan1.R;
-import com.example.bduan1.appcompatactivity.UserActivity;
-import com.example.bduan1.adapter.HopDongUserAdapter;
+import com.nhom3.bduan1.models.QuanLiHopDongModels;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.appcompatactivity.UserActivity;
+import com.nhom3.bduan1.adapter.HopDongUserAdapter;
 import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
 

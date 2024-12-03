@@ -1,4 +1,4 @@
-package com.example.bduan1.appcompatactivity;
+package com.nhom3.bduan1.appcompatactivity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,11 +14,11 @@ import androidx.core.view.WindowInsetsCompat;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 
-import com.example.bduan1.R;
-import com.example.bduan1.fragment.BillFragment;
-import com.example.bduan1.fragment.HomeFragment_user;
-import com.example.bduan1.fragment.NotificationFragment;
-import com.example.bduan1.fragment.ProfileFragment;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.fragment.BillFragment;
+import com.nhom3.bduan1.fragment.HomeFragment_user;
+import com.nhom3.bduan1.fragment.NotificationFragment;
+import com.nhom3.bduan1.fragment.ProfileFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
 

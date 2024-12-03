@@ -1,4 +1,4 @@
-package com.example.bduan1.fragment;
+package com.nhom3.bduan1.fragment;
 
 import android.os.Bundle;
 
@@ -12,9 +12,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.bduan1.R;
-import com.example.bduan1.models.ThongBaoModels;
-import com.example.bduan1.adapter.NotificationAdapter_user;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.models.ThongBaoModels;
+import com.nhom3.bduan1.adapter.NotificationAdapter_user;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.firestore.FirebaseFirestore;

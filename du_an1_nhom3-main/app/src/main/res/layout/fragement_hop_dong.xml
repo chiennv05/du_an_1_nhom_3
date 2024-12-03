@@ -16,6 +16,7 @@
             android:id="@+id/btnBack"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:contentDescription="TODO"
             android:src="@drawable/ic_arrow_back"/>
 
 
@@ -36,6 +37,7 @@
         android:layout_alignParentRight="true"
         android:layout_marginRight="10dp"
         android:layout_marginBottom="10dp"
+        android:contentDescription="TODO"
         android:src="@android:drawable/ic_input_add"
         android:backgroundTint="@color/your_primary_color"
         android:layout_width="wrap_content"

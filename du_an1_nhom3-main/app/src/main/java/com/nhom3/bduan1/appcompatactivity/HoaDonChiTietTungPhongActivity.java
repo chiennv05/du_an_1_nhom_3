@@ -1,4 +1,4 @@
-package com.example.bduan1.appcompatactivity;
+package com.nhom3.bduan1.appcompatactivity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -13,9 +13,9 @@ import androidx.core.view.WindowInsetsCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.bduan1.R;
-import com.example.bduan1.adapter.HoaDonChiTietTungPhongAdapter;
-import com.example.bduan1.models.HoaDonChiTietModels;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.adapter.HoaDonChiTietTungPhongAdapter;
+import com.nhom3.bduan1.models.HoaDonChiTietModels;
 import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
 

@@ -1,4 +1,4 @@
-package com.example.bduan1.appcompatactivity;
+package com.nhom3.bduan1.appcompatactivity;
 
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -13,7 +13,7 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-import com.example.bduan1.R;
+import com.nhom3.bduan1.R;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
 import com.google.firebase.firestore.FirebaseFirestore;

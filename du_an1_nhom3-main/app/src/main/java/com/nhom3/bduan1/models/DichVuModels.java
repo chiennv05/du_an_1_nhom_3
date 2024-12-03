@@ -1,4 +1,4 @@
-package com.example.bduan1.models;
+package com.nhom3.bduan1.models;
 
 public class DichVuModels {
     private String idDichVu;

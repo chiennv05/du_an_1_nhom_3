@@ -1,4 +1,4 @@
-    package com.example.bduan1.fragment;
+    package com.nhom3.bduan1.fragment;
 
     import android.os.Bundle;
     import android.view.LayoutInflater;
@@ -12,9 +12,9 @@
     import androidx.recyclerview.widget.LinearLayoutManager;
     import androidx.recyclerview.widget.RecyclerView;
 
-    import com.example.bduan1.R;
-    import com.example.bduan1.adapter.HoaDonAdapterAdmin;
-    import com.example.bduan1.models.QuanLyPhongTroModels;
+    import com.nhom3.bduan1.R;
+    import com.nhom3.bduan1.adapter.HoaDonAdapterAdmin;
+    import com.nhom3.bduan1.models.QuanLyPhongTroModels;
     import com.google.firebase.FirebaseApp;
     import com.google.firebase.firestore.DocumentSnapshot;
     import com.google.firebase.firestore.FirebaseFirestore;
@@ -31,7 +31,7 @@
         @Nullable
         @Override
         public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-            View view = inflater.inflate(com.example.bduan1.R.layout.fragment_xuat_hoa_don_admin, container, false);
+            View view = inflater.inflate(com.nhom3.bduan1.R.layout.fragment_xuat_hoa_don_admin, container, false);
             FirebaseApp.initializeApp(requireContext());
 
             db = FirebaseFirestore.getInstance();

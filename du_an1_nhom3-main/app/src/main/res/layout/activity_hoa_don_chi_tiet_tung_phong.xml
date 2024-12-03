@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".QuanLyHoaDon.HoaDonChiTietTungPhongActivity">
+    tools:context=".appcompatactivity.HoaDonChiTietTungPhongActivity">
 
     <androidx.appcompat.widget.Toolbar
         android:background="#56B0A6"

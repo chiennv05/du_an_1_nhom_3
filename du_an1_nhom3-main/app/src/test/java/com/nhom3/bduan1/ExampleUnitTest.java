@@ -1,4 +1,4 @@
-package com.example.bduan1;
+package com.nhom3.bduan1;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.bduan1.fragment;
+package com.nhom3.bduan1.fragment;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -11,9 +11,9 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.bduan1.R;
-import com.example.bduan1.adapter.XuLyYeuCauAdapter;
-import com.example.bduan1.models.QuanLyPhongTroModels;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.adapter.XuLyYeuCauAdapter;
+import com.nhom3.bduan1.models.QuanLyPhongTroModels;
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.firestore.DocumentChange;
 import com.google.firebase.firestore.FirebaseFirestore;
@@ -31,7 +31,7 @@ public class XuLyYeuCauAdminFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View view = inflater.inflate(com.example.bduan1.R.layout.fragment_xu_ly_yeu_cau_admin, container, false);
+        View view = inflater.inflate(R.layout.fragment_xu_ly_yeu_cau_admin, container, false);
         recyclerView = view.findViewById(R.id.rvYeuCau);
         list = new ArrayList<>();
         adapter = new XuLyYeuCauAdapter(requireContext(), list);

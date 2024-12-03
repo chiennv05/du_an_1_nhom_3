@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:gravity="center|bottom"
     android:background="@drawable/anhchao"
-    tools:context=".Login.ManHinhChao">
+    tools:context=".login.ManHinhChao">
 
 
     <Button

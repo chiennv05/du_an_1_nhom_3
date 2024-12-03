@@ -1,4 +1,4 @@
-package com.example.bduan1.appcompatactivity;
+package com.nhom3.bduan1.appcompatactivity;
 
 import android.os.Bundle;
 import android.widget.Button;
@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.FirebaseFirestore;
-import com.example.bduan1.R;
+import com.nhom3.bduan1.R;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

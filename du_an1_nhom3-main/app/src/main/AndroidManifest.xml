@@ -13,42 +13,40 @@
         android:theme="@style/Theme.Bduan1"
         >
         <activity
-            android:name=".Login.DoiMatKhau"
+            android:name=".login.DoiMatKhau"
             android:exported="false" />
         <activity
-            android:name=".screens.BillDetailUserActivity"
+            android:name=".appcompatactivity.BillDetailUserActivity"
             android:exported="false" />
         <activity
-            android:name=".QuanLyHoaDon.HoaDonChiTietTungPhongActivity"
+            android:name=".appcompatactivity.HoaDonChiTietTungPhongActivity"
             android:exported="false" /> <!-- <activity -->
         <!-- android:name=".QuanLyHoaDon.QuanLiHoaDonAdminActivity" -->
         <!-- android:exported="false" /> -->
         <activity
-            android:name=".QuanLyHopDongAdmin.QuanLiHopDongChiTietActivity"
+            android:name=".appcompatactivity.QuanLiHopDongChiTietActivity"
             android:exported="false" />
         <activity
-            android:name=".screens.UpdateUserActivity"
+            android:name=".appcompatactivity.UpdateUserActivity"
             android:exported="false" /> <!-- <activity -->
         <!-- android:name=".chucnangAdminQuanLyPhongTo.FragmentQuanLyPhongTro" -->
         <!-- android:exported="false" /> -->
         <activity
-            android:name=".Admin"
+            android:name=".login.DangNhap"
             android:exported="true" />
-        <activity android:name=".QuanLyHoaDon.ThemChiTietHoaDonAdmin" />
+        <activity android:name=".appcompatactivity.ThemChiTietHoaDonAdminActivity" />
+
         <activity
-            android:name=".MainActivity"
+            android:name=".appcompatactivity.UserActivity"
             android:exported="false" />
         <activity
-            android:name=".User"
+            android:name=".login.DangKy"
             android:exported="false" />
         <activity
-            android:name=".Login.DangKy"
-            android:exported="false" />
-        <activity
-            android:name=".Login.ManHinhChao"
+            android:name=".login.ManHinhChao"
             android:exported="true" />
         <activity
-            android:name=".Login.DangNhap"
+            android:name=".appcompatactivity.AdminActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

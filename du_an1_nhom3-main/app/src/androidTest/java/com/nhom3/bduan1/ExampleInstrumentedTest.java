@@ -1,4 +1,4 @@
-package com.example.bduan1;
+package com.nhom3.bduan1;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.bduan1", appContext.getPackageName());
+        assertEquals("com.nhom3.bduan1", appContext.getPackageName());
     }
 }

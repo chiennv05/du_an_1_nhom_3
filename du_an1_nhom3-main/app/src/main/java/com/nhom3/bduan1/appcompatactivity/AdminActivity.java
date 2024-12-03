@@ -1,4 +1,4 @@
-package com.example.bduan1.appcompatactivity;
+package com.nhom3.bduan1.appcompatactivity;
 
 import android.content.Intent;
 import android.graphics.drawable.Drawable;
@@ -14,10 +14,10 @@ import androidx.core.view.WindowInsetsCompat;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 
-import com.example.bduan1.R;
-import com.example.bduan1.fragment.ThongBaoAdminFragment;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.fragment.ThongBaoAdminFragment;
 
-import com.example.bduan1.fragment.HomeFragment;
+import com.nhom3.bduan1.fragment.HomeFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
 

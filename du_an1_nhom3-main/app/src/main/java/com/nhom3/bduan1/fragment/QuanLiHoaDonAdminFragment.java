@@ -1,4 +1,4 @@
-package com.example.bduan1.fragment;
+package com.nhom3.bduan1.fragment;
 
 import android.os.Bundle;
 
@@ -11,9 +11,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
-import com.example.bduan1.R;
-import com.example.bduan1.adapter.QuanLiHoaDonAdminAdapter;
-import com.example.bduan1.models.QuanLyPhongTroModels;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.adapter.QuanLiHoaDonAdminAdapter;
+import com.nhom3.bduan1.models.QuanLyPhongTroModels;
 import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
 

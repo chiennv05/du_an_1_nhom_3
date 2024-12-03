@@ -1,4 +1,4 @@
-package com.example.bduan1.login;
+package com.nhom3.bduan1.login;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,7 +10,7 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-import com.example.bduan1.R;
+import com.nhom3.bduan1.R;
 
 
 public class ManHinhChao extends AppCompatActivity {

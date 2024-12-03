@@ -1,4 +1,4 @@
-package com.example.bduan1.adapter;
+package com.nhom3.bduan1.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,8 +9,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.bduan1.R;
-import com.example.bduan1.models.ThongBaoModels;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.models.ThongBaoModels;
 
 import java.util.List;
 

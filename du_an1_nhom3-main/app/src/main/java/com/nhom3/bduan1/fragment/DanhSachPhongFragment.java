@@ -1,4 +1,4 @@
-package com.example.bduan1.fragment;
+package com.nhom3.bduan1.fragment;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -13,7 +13,8 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentActivity;
 import androidx.viewpager2.widget.ViewPager2;
 
-import com.example.bduan1.R;
+import com.nhom3.bduan1.R;
+
 import com.google.android.material.tabs.TabLayout;
 import com.google.android.material.tabs.TabLayoutMediator;
 
@@ -22,7 +23,7 @@ public class DanhSachPhongFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View view = inflater.inflate(com.example.bduan1.R.layout.fragment_danh_sach_phong, container, false);
+        View view = inflater.inflate(R.layout.fragment_danh_sach_phong, container, false);
         requireActivity().getWindow().setStatusBarColor(
                 ContextCompat.getColor(requireContext(), R.color.your_primary_dark_color)
         );

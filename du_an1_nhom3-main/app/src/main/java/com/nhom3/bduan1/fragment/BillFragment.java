@@ -1,4 +1,4 @@
-package com.example.bduan1.fragment;
+package com.nhom3.bduan1.fragment;
 
 import android.os.Bundle;
 
@@ -10,10 +10,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.bduan1.models.HoaDonModels;
-import com.example.bduan1.R;
-import com.example.bduan1.appcompatactivity.UserActivity;
-import com.example.bduan1.adapter.BillDetailUserAdapter;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.models.HoaDonModels;
+import com.nhom3.bduan1.appcompatactivity.UserActivity;
+import com.nhom3.bduan1.adapter.BillDetailUserAdapter;
 import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
 

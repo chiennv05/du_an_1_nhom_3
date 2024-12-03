@@ -1,4 +1,4 @@
-package com.example.bduan1.fragment;
+package com.nhom3.bduan1.fragment;
 
 import android.app.AlertDialog;
 import android.app.DatePickerDialog;
@@ -17,9 +17,9 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.bduan1.R;
-import com.example.bduan1.adapter.QuanLyPhongTroAdapter;
-import com.example.bduan1.models.QuanLyPhongTroModels;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.adapter.QuanLyPhongTroAdapter;
+import com.nhom3.bduan1.models.QuanLyPhongTroModels;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;

@@ -52,6 +52,7 @@
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="40dp"
+                    android:contentDescription="TODO"
                     android:src="@drawable/anhdanhsach" />
 
                 <TextView
@@ -79,6 +80,7 @@
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="40dp"
+                    android:contentDescription="TODO"
                     android:src="@drawable/anhthongbao" />
 
                 <TextView
@@ -106,6 +108,7 @@
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="40dp"
+                    android:contentDescription="TODO"
                     android:src="@drawable/anhphongqlphongtro" />
 
                 <TextView
@@ -133,6 +136,7 @@
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="40dp"
+                    android:contentDescription="TODO"
                     android:src="@drawable/anhqlhoadon" />
 
                 <TextView
@@ -161,6 +165,7 @@
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="40dp"
+                    android:contentDescription="TODO"
                     android:src="@drawable/anhhotro" />
 
                 <TextView
@@ -188,6 +193,7 @@
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="40dp"
+                    android:contentDescription="TODO"
                     android:src="@drawable/anhqlhopdong" />
 
                 <TextView
@@ -213,6 +219,7 @@
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="40dp"
+                    android:contentDescription="TODO"
                     android:src="@drawable/anhqlhopdong" />
                 <TextView
                     android:layout_width="wrap_content"
@@ -237,6 +244,7 @@
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="40dp"
+                    android:contentDescription="TODO"
                     android:src="@drawable/icon_logout" />
                 <TextView
                     android:layout_width="wrap_content"

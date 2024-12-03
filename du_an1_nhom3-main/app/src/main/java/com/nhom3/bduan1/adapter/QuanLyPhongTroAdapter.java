@@ -1,4 +1,4 @@
-package com.example.bduan1.adapter;
+package com.nhom3.bduan1.adapter;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -16,8 +16,8 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.bduan1.R;
-import com.example.bduan1.models.QuanLyPhongTroModels;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.models.QuanLyPhongTroModels;
 import com.google.firebase.firestore.FirebaseFirestore;
 
 import java.util.ArrayList;

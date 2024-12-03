@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
 
-    tools:context=".Admin">
+    tools:context=".appcompatactivity.AdminActivity">
 
     <!-- Nội dung động -->
     <androidx.fragment.app.FragmentContainerView

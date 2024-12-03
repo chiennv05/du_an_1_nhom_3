@@ -1,4 +1,4 @@
-package com.example.bduan1.adapter;
+package com.nhom3.bduan1.adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -10,9 +10,9 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.bduan1.models.HoaDonModels;
-import com.example.bduan1.R;
-import com.example.bduan1.appcompatactivity.BillDetailUserActivity;
+import com.nhom3.bduan1.models.HoaDonModels;
+import com.nhom3.bduan1.R;
+import com.nhom3.bduan1.appcompatactivity.BillDetailUserActivity;
 
 import java.util.List;
 

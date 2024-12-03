@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".QuanLyHoaDon.QuanLiHoaDonAdminFragment">
+    tools:context=".fragment.QuanLiHoaDonAdminFragment">
 
     <Toolbar
         android:layout_width="match_parent"
@@ -14,6 +14,7 @@
             android:id="@+id/imgBackQuanLiHoaDon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:contentDescription="TODO"
             android:src="@drawable/ic_arrow_back"/>
         <TextView
             android:layout_width="wrap_content"

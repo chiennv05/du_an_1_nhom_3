@@ -1,4 +1,4 @@
-package com.example.bduan1.login;
+package com.nhom3.bduan1.login;
 
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.bduan1.R;
+import com.nhom3.bduan1.R;
 import com.google.firebase.auth.AuthCredential;
 import com.google.firebase.auth.EmailAuthProvider;
 import com.google.firebase.auth.FirebaseAuth;
